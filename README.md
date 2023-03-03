@@ -34,7 +34,12 @@ Tables/Relations are a group of rows sharing the same labeled elements
 * Flexibility of Queries
 * ACID transactions - Data Integrity
 
-
+### When not to use Relational Database
+* Large amounts of data
+* Need to be able to store different data types formats
+* Need a flexible schema
+* Need high availablity
+* Need horizontal scalibility
 
 
 
