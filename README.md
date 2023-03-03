@@ -23,7 +23,7 @@ relate to one another and properties of real-world entities.
 * MySql, PostgreSql, Oracle, MSSQL, etc
 
 ### Basics of relational database
-Database/Schema is a collection of tables
+Database/Schema is a collection of tables  
 Tables/Relations are a group of rows sharing the same labeled elements
 
 ### Advantages of using a Relational Database
