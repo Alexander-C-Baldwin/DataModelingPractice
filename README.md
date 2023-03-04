@@ -1,6 +1,15 @@
 # DataModelingProjectPractice
 Simple Data Modeling Practice with postgreSQL and python in Jupyter notebook
 
+For this project I practiced creating an ER diagram then creating and populating a database in postgreSQL using python.
+
+First I created an Entity relationship diagram for fictional Employees data that I created myself. This consisted of creating tables and finding primary and foreign keys for each table as well as the joining relationships. This is shown in the ER diagram.
+
+I then used python to create a postgreSQL database and manually created the tables. Then populated with data.
+Next I did this again with another dataset. However this dataset was already in an excel csv file. I used python to create a database for this and load the data from this dataset into the database in postgreSQL. 
+
+The data for each dataset is now ready for cleaning and analysis!
+
 ## ER Diagram
 A fictional ER diagram I've created of an Employees database. 
 
