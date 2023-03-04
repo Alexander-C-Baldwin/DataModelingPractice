@@ -1,4 +1,4 @@
-# DataModelingProjectPractice
+# Data Engineering. Data Modeling Practice.
 Simple Data Modeling Practice with postgreSQL and python in Jupyter notebook
 
 For this project I practiced creating an ER diagram then creating and populating a database in postgreSQL using python.
